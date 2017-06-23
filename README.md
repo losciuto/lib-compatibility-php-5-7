@@ -1,5 +1,7 @@
-# MySQL PHP library for PHP 7 back-compatibility with PHP 5
-PHP library for back-compatibility MySQL function for PHP 7
+# MySQL PHP procedural library for PHP 7 back-compatibility with PHP 5
+PHP procedural library for back-compatibility MySQL function for PHP 7
+
+Download file and include it [include('compatibility.7.0.php');] before call db settings
 
 # functions converted:
 
