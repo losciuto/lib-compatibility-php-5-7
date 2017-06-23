@@ -1,2 +1,2 @@
-# lib-compatibility-php-5-7
-Library php for compatibility MySQL function from php 5 to php 7
+# MySQL PHP library for PHP 7 retro-compatibility with PHP 5
+PHP library for retro-compatibility MySQL function for PHP 7
