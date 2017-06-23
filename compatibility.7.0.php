@@ -1,5 +1,6 @@
 <?php
 // funzioni di retro compatibilità con le versioni 5.x per la versione 7.0 di php
+// ver 0.1 - 23/06/2017
 if(
 	!function_exists("mysql_pconnect") && 
 	!function_exists("mysql_select_db") && 
