@@ -3,6 +3,8 @@ PHP procedural library for back-compatibility MySQL function for PHP 7
 
 Download file and include it [include('compatibility.7.0.php');] before call db settings
 
+mysqli functions used.
+
 # functions converted:
 
   mysql_pconnect
